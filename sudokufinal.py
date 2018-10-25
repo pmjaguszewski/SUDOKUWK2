@@ -1,3 +1,4 @@
+#kalikoment
 #koment
 import os
 from random import *
