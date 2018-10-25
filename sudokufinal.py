@@ -1,4 +1,4 @@
-
+#koment
 import os
 from random import *
 
